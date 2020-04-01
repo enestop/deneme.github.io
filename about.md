@@ -2,4 +2,4 @@
 * Site Map
   * About
   * Content
-  * [MainPage!]<https://enestop.github.io/deneme.github.io/>
+  * [MainPage!] (https://enestop.github.io/deneme.github.io)
