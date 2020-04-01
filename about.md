@@ -7,3 +7,5 @@
 FIRST | Second
 ----- | -----
 FIRST | Second
+
+~~this~~
